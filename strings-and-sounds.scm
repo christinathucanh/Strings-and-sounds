@@ -1,8 +1,3 @@
-; Project: "Strings and sounds" 
-; Do a composition of the song "Mary had a little lamb"
-; Author: Anh Thuc (Christina) Vu
-; Date: 2022-09-12
-; ACKNOWLEDGEMENTS:
 "Part 1"
 ; slight-trim = string? 
 ; (equal? (substring str 0 1) " ") 
